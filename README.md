@@ -15,4 +15,7 @@ Image du jeu :
 
 ![image](https://user-images.githubusercontent.com/56195432/159185240-7f0d0089-261c-4cd7-9956-fc0eb5596f7e.png)
 
-Une immersion auditive total avec les bandes sons de l'émission.
+Une immersion auditive total avec les bandes sons de l'émission (cliquer pour voir la vidéo) :
+
+
+[![Watch the video](https://img.youtube.com/vi/rwKX0O4G3Bg/maxresdefault.jpg)](https://youtu.be/rwKX0O4G3Bg)
